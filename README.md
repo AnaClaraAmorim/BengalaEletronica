@@ -32,6 +32,6 @@ simulando situações vivenciadas por deficientes visuais no dia-a-
 
 5ª - Divulgação dos resultados à comunidade acadêmica, através de apresentações orais e participações em eventos.
 
-![Bengala](./imagens/bengala_uso.JPG "Bengala")
+![Bengala](./Imagens/bengala_uso.JPG "Bengala")
 
 Maior descrição do projeto: https://seer.dppg.cefetmg.br/index.php/revistadameta/article/viewFile/913/780
