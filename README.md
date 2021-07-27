@@ -34,4 +34,4 @@ simulando situações vivenciadas por deficientes visuais no dia-a-
 
 ![Bengala](./Imagens/bengala_uso.JPG "Bengala")
 
-Maior descrição do projeto: https://seer.dppg.cefetmg.br/index.php/revistadameta/article/viewFile/913/780
+Maior descrição do projeto, ![Relatorio](./Relatório.pdf "Relatorio") https://seer.dppg.cefetmg.br/index.php/revistadameta/article/viewFile/913/780 
