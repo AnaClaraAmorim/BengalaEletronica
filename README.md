@@ -1,4 +1,4 @@
-# BengalaEletronica
+# Bengala Eletrônica
 
 Projeto desenvolvido em 2016, campeão do primeiro lugar geral na 26a Mostra Específica de Trabalhos e
 Aplicações – META do CEFET-MG. O protótipo consiste em uma bengala eletrônica que através de um sensor ultrassônico identifica obstáculos no percurso e os envia ao arduino,
@@ -34,4 +34,4 @@ simulando situações vivenciadas por deficientes visuais no dia-a-
 
 ![Bengala](./Imagens/bengala_uso.JPG "Bengala")
 
-Maior descrição do projeto, [📄](./Relatório.pdf "Relatorio") e no https://seer.dppg.cefetmg.br/index.php/revistadameta/article/viewFile/913/780 
+Maior descrição do projeto: [📄](./Relatório.pdf "Relatorio") e no https://seer.dppg.cefetmg.br/index.php/revistadameta/article/viewFile/913/780 
