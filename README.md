@@ -12,8 +12,7 @@ equipada com microcontrolador Atmel® e foi programada usando C++.
 
 O trabalho prático foi desenvolvido nas seguintes etapas: 
 
-1a
- - Análise
+1ª - Análise
 dos recursos disponíveis no microcontrolador utilizado, bem como
 das ferramentas de desenvolvimento de projeto; 
 
